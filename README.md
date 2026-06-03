@@ -1,15 +1,19 @@
 # Contribution [#]: [Issue Title]
 
 **Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Student:** Dilan Caro  
+**Issue:** [https://github.com/josharsh/100LinesOfAICode/issues/19]  
+**Status:** [Phase I ] [Complete]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+The issue is about implementing a webui for a cli tool. There are various cli tools in this repo. Some of them are mini-rag, so implementing the webui would actually be really fun and not complicated so we can stay ahead and finish all phases. In the case I finish too quickly I hope to implement other web uis for other tools here like rubber-duck cli tool for rubber duck debbuging !
+
+I have various skills, full stack, web, backend , so actually I think it is a nice issue to practice the full pipeline , for the backend, I can understand it, or even modify it if required, and the web ui I can implement it with my web skills and AI if needed. 
+
+I hope to learn how to make streamline web ui , easy , nice, simple, and functional.
 
 ---
 
