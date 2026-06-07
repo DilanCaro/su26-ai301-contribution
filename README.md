@@ -71,7 +71,7 @@ export ANTHROPIC_API_KEY=your_key  # I put mine in a .env file instead
 
 ### Reproduction Evidence
 
-- **Commit showing reproduction:** 
+- **Commit showing reproduction:**  https://github.com/DilanCaro/100LinesOfAICode
 
 - **Screenshots/logs:**
 
